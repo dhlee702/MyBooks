@@ -2,4 +2,10 @@ site_name: My Books
 nav:
   - 목록 : index.md
   - 그레이트 마이드셋 : great_mindset.md
+
 theme: material
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc : 
+      permalink :  true
