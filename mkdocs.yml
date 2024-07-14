@@ -3,6 +3,7 @@ nav:
   - 목록 : index.md
   - 그레이트 마이드셋 : great_mindset.md
   - 소프트웨어 아키텍처 문서화 : software_architecture_documentation.md
+  - 끝까지해내는 기술 : getting_grid.md
 
 theme: material
 markdown_extensions:

@@ -29,14 +29,14 @@ The C4 model looks at the static structures of a software system in terms of con
 
 SOFTWARE ARCHITECTURE DOCUMENT TITLE
 ### Introduction
-* Purpose of Document
-* Software system's scope and context
-* Version history and document conventions
+1. Purpose of Document
+2. Software system's scope and context
+3. Version history and document conventions
 
 ### Architecture Overview
-* A high-level overview of the system's architecture
-* System Objectives and Requirements
-* System stakeholders and their roles
+1. A high-level overview of the system's architecture
+2. System Objectives and Requirements
+3. System stakeholders and their roles
 
 ### Architectural Layout
 * Diagram of overall system architecture (E.g., C4 Model)
